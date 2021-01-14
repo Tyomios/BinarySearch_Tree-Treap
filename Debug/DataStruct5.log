@@ -1,0 +1,7 @@
+﻿  BinaryTree.cpp
+  Common.cpp
+C:\Users\Artem\source\repos\DataStruct5\Common.cpp(36,6): warning C4101: userChoose: неиспользованная локальная переменная
+  Treap.cpp
+  main.cpp
+  Создание кода...
+  DataStruct5.vcxproj -> C:\Users\Artem\source\repos\DataStruct5\Debug\DataStruct5.exe
